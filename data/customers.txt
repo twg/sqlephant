@@ -1,0 +1,12 @@
+ID  NAME            PTS  ADDRESS
+#1  Jones Jackson   10   220 Elm St.
+#2  Helen Parr      35   660 Maple Ave. / 209 Cottage Ct.
+#3  Blake Smith     9    4404 Giganto St. Apt. 16
+#4  T. J. Banister  16   242 Westpark NE. Unit 202-A
+#5  Betty Nettle    201  2B East Westburn Ave.
+#6  Mildred Pierce  95   190 Westlake Blvd.
+#7  Terry Jones     63
+#8  Claire Jones    15   45 Rio Grande Ave. Unit 20
+#9  Terry Jones     5    9 Beech Blvd.
+#10 Patrick         10
+#11 Terri Arbuckle-Jones 140 29 Westlake Blvd. Suite 880

@@ -1,0 +1,11 @@
+NAME                         BIRTHDATE
+Nettle, Betty                1939-06-30
+Jones, Terry                 1942-09-12
+Banister, T. J.              1967-10-09
+Jackson, Jones               1973-03-18
+Parr, Helen                  1978-09-28
+Arbuckle-Jones, Terri        1982-01-20
+Jones, Terry                 1982-09-30
+Smith, Blake                 1983-06-20
+Jones, Claire                1986-08-04
+Pierce, Mildred              1987-06-04
